@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45982" started-at="2015-08-19T14:05:56Z" finished-at="2015-08-19T14:06:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45982" started-at="2015-08-19T14:05:56Z" finished-at="2015-08-19T14:06:42Z">
+      <class name="Oranj.Test01">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Oranj.Test01@22a71081]" name="beforeTest" is-config="true" duration-ms="4487" started-at="2015-08-19T19:35:56Z" finished-at="2015-08-19T19:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:Oranj.Test01@22a71081]" name="testEasy" duration-ms="41183" started-at="2015-08-19T19:36:00Z" finished-at="2015-08-19T19:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Oranj.Test01@22a71081]" name="afterTest" is-config="true" duration-ms="302" started-at="2015-08-19T19:36:41Z" finished-at="2015-08-19T19:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Oranj.Test01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
